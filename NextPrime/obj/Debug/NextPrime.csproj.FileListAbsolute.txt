@@ -1,0 +1,7 @@
+D:\C#Practice\NextPrime\NextPrime\obj\Debug\NextPrime.csprojAssemblyReference.cache
+D:\C#Practice\NextPrime\NextPrime\obj\Debug\NextPrime.csproj.CoreCompileInputs.cache
+D:\C#Practice\NextPrime\NextPrime\bin\Debug\NextPrime.exe.config
+D:\C#Practice\NextPrime\NextPrime\bin\Debug\NextPrime.exe
+D:\C#Practice\NextPrime\NextPrime\bin\Debug\NextPrime.pdb
+D:\C#Practice\NextPrime\NextPrime\obj\Debug\NextPrime.exe
+D:\C#Practice\NextPrime\NextPrime\obj\Debug\NextPrime.pdb
